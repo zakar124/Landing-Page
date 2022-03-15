@@ -23,6 +23,15 @@ a  {
     color: white;
     text-decoration: none;
 }
+.aligntext {
+    text-align: center;
+}
+.container2 {
+    display: flex;
+}
+
+.itemscontainer2 {
+    border: 2px solid blue;
 
 }
 button {
