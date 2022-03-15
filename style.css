@@ -1,10 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;"
+}
 header {
     background-color: #1F2937;
     color: white;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 8px;
   
+}
+.headerlogo {
+    font-size: large;
 }
 
 ul {
