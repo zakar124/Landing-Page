@@ -23,6 +23,19 @@ a  {
     color: white;
     text-decoration: none;
 }
+
+
+ 
+.toptextwithpuppy {
+    background-color: #1F2937;
+    color: white;
+}
+.smallertext {
+    font-size: x-small;
+
+ 
+
+}
 .aligntext {
     text-align: center;
     font-size: 20px;
@@ -50,11 +63,7 @@ a  {
 button {
     background: #3882f6;
     color: white;
-}
 
-.toptextwithpuppy {
-    background-color: #1F2937;
-    color: white;
 }
 
 img {
